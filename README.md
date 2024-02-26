@@ -1,2 +1,1 @@
-# DS-HyFA-Net
-About Implementation of DS-HyFA-Net: A Deeply Supervised Hybrid Feature Aggregation Network with Multi-Encoders for Change Detection in High-Resolution Imagery
+The code is being organized and will be released soon.

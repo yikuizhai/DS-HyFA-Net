@@ -1,4 +1,4 @@
-# <p align="center">DS-HyFA-Net: A Deeply Supervised Hybrid Feature Aggregation Network With Multiencoders for Change Detection in High-Resolution Imagery (IEEE TGRS 2024)</p>
+# <p align="center">DS-HyFA-Net: A Deeply Supervised Hybrid Feature Aggregation Network With Multiencoders for Change Detection in High-Resolution Imagery < br > (IEEE TGRS 2024)</p>
 
 This is the official repository for “[DS-HyFA-Net: A Deeply Supervised Hybrid Feature Aggregation Network With Multiencoders for Change Detection in High-Resolution Imagery](https://doi.org/10.1109/TGRS.2024.3471075)”
 

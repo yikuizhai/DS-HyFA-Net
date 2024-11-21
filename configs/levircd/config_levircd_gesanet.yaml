@@ -1,0 +1,9 @@
+# LEVIRCD+GeSANet
+
+
+model: GeSANet
+out_type: logits2
+criterion: WNLL
+
+
+

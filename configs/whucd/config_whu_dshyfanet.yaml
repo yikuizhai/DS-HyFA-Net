@@ -1,0 +1,14 @@
+# WHU-CD+DSHyFANet
+
+
+out_dir: dshyfanet
+model: DSHyFANet
+out_type: logits
+criterion: WBCE
+cd_coeffs:
+  - 1.0
+  - 1.0
+
+
+
+

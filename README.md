@@ -14,7 +14,7 @@ With the advancement of deep learning (DL) technologies, remarkable progress has
 - Pytorch==1.13.1
 - torchvision==0.14.1
   
-See [environment.yaml](https://github.com/yikuizhai/DS-HyFA-Net/environment.yaml) for details.
+See [environment.yaml](https://github.com/yikuizhai/DS-HyFA-Net/blob/main/environment.yaml) for details.
 
 ## Getting Started
 
